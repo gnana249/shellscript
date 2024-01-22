@@ -1,0 +1,20 @@
+if [ condition ];
+ then 
+     statem 
+
+
+ if [ condition ];
+   then 
+       stat1
+ else 
+  then  
+     sta 2
+  if [ conditon ];
+   then  
+       stat
+   elif [ condition ];
+   then 
+       stat
+    else 
+         stat
+   
