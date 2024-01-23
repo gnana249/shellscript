@@ -17,4 +17,14 @@ if [ condition ];
        stat
     else 
          stat
-   
+
+
+case expression in 
+  case1) statement ;;
+  case2) statement ;;
+  case3) statement ;;
+
+
+
+  *) statement ;;
+esac
